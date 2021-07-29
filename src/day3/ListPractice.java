@@ -8,5 +8,6 @@ public class ListPractice {
 
        // List<String> lst = new ArrayList<>();
         // adding one item
+        // printing out
     }
 }
